@@ -6,7 +6,7 @@ src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21160066&label=Profile%20views&color=0e75b6&style=flat" alt="it21160066" /> </p>
 
-- 🌱 I’m currently learning **React and .Net**
+- 🌱 I’m currently learning **React, Java Spring Boot and .Net**
 
 - 📫 How to reach me **pasindu.cp@gmail.com**
 
