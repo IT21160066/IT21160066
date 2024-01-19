@@ -28,7 +28,7 @@
 
 [![](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=tokyonight)](https://git.io/praveenscience)
 
-| ![Pasindu's github stats](https://github-readme-stats.vercel.app/api?username=IT21160066&show_icons=true&theme=radical) | ![Pasindu GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IT21160066&theme=radical) |
+| ![Pasindu's github stats](https://github-readme-stats.vercel.app/api?username=IT21160066&show_icons=true&theme=&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40) | ![Pasindu GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IT21160066&theme=radical) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IT21160066&theme=radical) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=IT21160066&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 
