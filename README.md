@@ -26,7 +26,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it21160066&theme=radical" alt="it21160066" /></a> </p>
 
-[![](https://activity-graph.herokuapp.com/graph?username=IT21160066&theme=radical)](https://git.io/praveenscience)
+[![](https://activity-graph.herokuapp.com/graph?username=IT21160066&theme=radical)]()
 
 | ![Pasindu's github stats](https://github-readme-stats.vercel.app/api?username=IT21160066&show_icons=true&theme=&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40) | ![Pasindu GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IT21160066&theme=radical) |
 | --- | --- |
