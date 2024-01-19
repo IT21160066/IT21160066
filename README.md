@@ -26,11 +26,13 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it21160066" alt="it21160066" /></a> </p>
 
-<p><img alt="it21160066" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=it21160066&show_icons=true&locale=en&layout=compact&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000"  /></p>
+[![](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=tokyonight)](https://git.io/praveenscience)
 
-<p><img alt="it21160066" align="center" src="https://github-readme-stats.vercel.app/api?username=it21160066&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></p>
+| ![Pasindu's github stats](https://github-readme-stats.vercel.app/api?username=IT21160066&show_icons=true&theme=radical) | ![Pasindu GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IT21160066&theme=radical) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IT21160066&theme=radical) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=IT21160066&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 
-<p><img alt="it21160066" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=it21160066&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></p> 
+
 
 ---
 
