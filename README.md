@@ -1,4 +1,4 @@
-<p align="center"><img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"></p>
+<p align="center"><img align="center" width="100%" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"></p>
 <h1 align="center">Hi 👋, I'm Pasindu Perakum</h1>
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
 
