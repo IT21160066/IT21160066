@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21160066&label=Profile%20views&color=0e75b6&style=flat" alt="it21160066" /> </p>
 
-- 🔭 I’m currently working on **Spring Boot REST API project**
+- 🔭 I’m currently working on **Spring Boot, React and Tailwind CSS Employee Management project**
 
 - 🌱 I’m currently learning **Spring Boot, React, Tailwind CSS**
 
